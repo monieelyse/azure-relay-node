@@ -1,7 +1,6 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 ![Node.js](https://img.shields.io/badge/node-%3E=16.0-blue)
 ![Made with hyco-ws](https://img.shields.io/badge/websocket-hyco--ws-ff69b4)
-![Last Commit](https://img.shields.io/github/last-commit/monieelyse/azure-relay-node)
 
 
 # 🔁 Azure Relay Hybrid Connection with Node.js
